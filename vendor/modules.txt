@@ -1,0 +1,21 @@
+# github.com/confluentinc/confluent-kafka-go v1.9.2
+## explicit; go 1.13
+github.com/confluentinc/confluent-kafka-go/kafka/librdkafka_vendor
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+github.com/davecgh/go-spew/spew
+# github.com/google/uuid v1.3.0
+## explicit
+github.com/google/uuid
+# github.com/pmezard/go-difflib v1.0.0
+## explicit
+github.com/pmezard/go-difflib/difflib
+# github.com/stretchr/testify v1.8.4
+## explicit; go 1.20
+github.com/stretchr/testify/assert
+# gopkg.in/confluentinc/confluent-kafka-go.v1 v1.8.2
+## explicit
+gopkg.in/confluentinc/confluent-kafka-go.v1/kafka
+# gopkg.in/yaml.v3 v3.0.1
+## explicit
+gopkg.in/yaml.v3

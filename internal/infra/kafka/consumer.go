@@ -1,6 +1,6 @@
 package kafka
 
-import ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
+import ckafka "gopkg.in/confluentinc/confluent-kafka-go.v1/kafka"
 
 type Consumer struct {
 	ConfigMap *ckafka.ConfigMap
